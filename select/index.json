@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Kick Up",
+  "base_artist": "JUMADIBA",
+  "createdAt": "2026-02-09T18:27:06.172120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Kick Up The Roots",
+      "artist": "Neck Deep",
+      "has_synced": true,
+      "path": "select/01_Can't_Kick_Up_The_Roots_Neck_Deep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Kick Up The Roots (Acoustic)",
+      "artist": "Neck Deep",
+      "has_synced": true,
+      "path": "select/02_Can't_Kick_Up_The_Roots_(Acoustic)_Neck_Deep.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kick Up Your Heels",
+      "artist": "Jessica Mauboy",
+      "has_synced": true,
+      "path": "select/03_Kick_Up_Your_Heels_Jessica_Mauboy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can’t Kick Up the Roots",
+      "artist": "Neck Deep",
+      "has_synced": true,
+      "path": "select/04_Can’t_Kick_Up_the_Roots_Neck_Deep.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kick up Your Heels (feat. Pitbull)",
+      "artist": "Jessica Mauboy feat. Pitbull",
+      "has_synced": true,
+      "path": "select/05_Kick_up_Your_Heels_(feat._Pitbull)_Jessica_Mauboy_feat._Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kick up Your Heels (feat. Pitbull)",
+      "artist": "Jessica Mauboy",
+      "has_synced": true,
+      "path": "select/06_Kick_up_Your_Heels_(feat._Pitbull)_Jessica_Mauboy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kick up Your Heels (feat. Pitbull)",
+      "artist": "Jessica Mauboy",
+      "has_synced": true,
+      "path": "select/07_Kick_up_Your_Heels_(feat._Pitbull)_Jessica_Mauboy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Dust You Kick Up Is Too Fine",
+      "artist": "Sunset Rubdown",
+      "has_synced": false,
+      "path": "select/08_The_Dust_You_Kick_Up_Is_Too_Fine_Sunset_Rubdown.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kick Up Your Heels",
+      "artist": "Jessica Mauboy feat. Pitbull",
+      "has_synced": true,
+      "path": "select/09_Kick_Up_Your_Heels_Jessica_Mauboy_feat._Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can't Kick Up The Roots (Acoustic)",
+      "artist": "Neck Deep",
+      "has_synced": true,
+      "path": "select/10_Can't_Kick_Up_The_Roots_(Acoustic)_Neck_Deep.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kick Up (feat. ralph)",
+      "artist": "JUMADIBA",
+      "has_synced": false,
+      "path": "select/pl_01_Kick_Up_(feat._ralph)_JUMADIBA.txt"
+    }
+  ]
+}
