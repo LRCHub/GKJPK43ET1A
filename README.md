@@ -1,0 +1,110 @@
+# JUMADIBA – Kick Up
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+暗くてもopen窓
+Spitしてget money 倍から倍
+絶えないこの反動
+反応してビートにdive&fly
+まるでballer 打つ弾道ならlowだし
+High, so high
+Spikeはhondaで
+Kickするverseで
+消しちゃうほら問題
+変わってくデフォと感度
+だが押さないハンコ
+街には何にもないけど
+絆創膏貼るカストロ
+俺今mixed up mixed up
+ごめんねあとでpick up
+重りを引っ提げて
+このMADIBAが箱でkick up
+したい放題
+したいわけじゃないのが本題で
+しない後悔だし
+論外だけの話もしないね
+2人交代
+Recで飲むかフランスのワイン
+味わってる場合じゃないから
+履き替えるためにspit all night
+いないmy ボス
+張り切ってる割足りない様子
+Ha? insta post
+血が出てるならすぐphone call
+煩悩　翻弄　見抜けない嘘本当
+欲しけりゃ上げる勝ち
+でもすぐdon't talk で無視nobody
+このでっかい空で浮かび
+ポッケにある秘密の鍵
+置き去るまるで俺Sterling
+Ah girl 華麗な身のこなし
+間違っても言いたい
+鞭打てば崩壊
+足蹴る地兄弟
+はだけてく問題
+暗くてもopen窓
+Spitしてget money 倍から倍
+絶えないこの反動
+反応してビートにdive&fly
+まるでballer 打つ弾道ならlowだし
+High, so high
+Spikeはhondaで
+Kickするverseで
+消しちゃうほら問題
+変わってくデフォと感度
+だが押さないハンコ
+街には何にもないけど
+絆創膏貼るカストロ
+俺今mixed up mixed up
+ごめんねあとでpick up
+重りを引っ提げて
+このMADIBAが箱でkick up
+その傷は俺の犯行
+鋭いでは済まされない眼光
+仕事を済ませ flight
+手荷物 アタッシュケースはcarbon
+スパイクを履いたら
+殺スラ かまして 1発退場
+スパイクを履いたら
+殺スラ かまして 1発退場
+Sickなビートにkick
+このkicks 幾らする？新品
+LIPがヒビ割れshit
+クソbigなアクビを殺しfreeze
+退屈 狭すぎ field
+固まる俺の足  もうleave
+ハンデが目隠しでもeasy
+JUMADIBA 着こなしてるCP
+Bitch喋りかけるなよwe low key
+質問ばかりだな police
+ヘッドショット する COD
+Bitch喋りかけるなよwe low key
+質問ばかりだな police
+ヘッドショット する COD
+Rapでgetする 甲斐性
+全員待ち詫びてるこのmy show
+パンパンのポッケと会場
+君らにケチ付けよう無いmy job
+アマチュア 全員 病院送りに
+出せ感謝状
+上げてる前線 今更気づいたって
+もう遅えよ
+暗くてもopen窓
+Spitしてget money 倍から倍
+絶えないこの反動
+反応してビートにdive&fly
+まるでballer 打つ弾道ならlowだし
+High, so high
+Spikeはhondaで
+Kickするverseで
+消しちゃうほら問題
+変わってくデフォと感度
+だが押さないハンコ
+街には何にもないけど
+絆創膏貼るカストロ
+俺今mixed up mixed up
+ごめんんねあとでpick up
+重りを引っ提げて
+このMADIBAが箱でkick up
+```
